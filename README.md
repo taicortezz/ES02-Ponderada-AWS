@@ -60,6 +60,6 @@ CREATE TABLE jogadores (
 
 ## Vídeo Explicativo
 
-[Clique Aqui](https://drive.google.com/file/d/1RSPtmwI8a034P6vEl0z3186oRGpYQ1t4/view?usp=sharing)
+[Clique Aqui](https://drive.google.com/file/d/1u8kw8jwnN_6CcUx-CGxX_XJsiVujezkS/view?usp=sharing)
 
 
